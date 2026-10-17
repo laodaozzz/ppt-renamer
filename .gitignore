@@ -1,0 +1,10 @@
+# 私有数据：勿上传医学讲座 PPT 源文件
+*.pptx
+
+# 旧版本脚本（本项目仅发布 v3）
+pptrenamer.py
+PPTRenamer2.py
+
+# Python 缓存
+__pycache__/
+*.pyc
